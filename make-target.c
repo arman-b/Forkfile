@@ -2,10 +2,6 @@
 #include "forkfile.h"
 #include "make-target.h"
 
-/* (c) Larry Herman, 2020.  You are allowed to use this code yourself, but
- * not to provide it to anyone else.
- */
-
 /* make_target() tries to build the target target_name in the forkfile
  * forkfile.
  *
